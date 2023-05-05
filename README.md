@@ -1,5 +1,5 @@
 # SMxTH
-Django 
+Django Built version of my community app. This will have a more polished UI and will be sent to production for real consumer consupmtion. 
 
 wireframes: see photo
 
